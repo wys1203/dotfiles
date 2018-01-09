@@ -14,7 +14,7 @@ export CFLAGS="-I$(brew --prefix openssl)/include $CFLAGS"
 export LDFLAGS="-L$(brew --prefix openssl)/lib $LDFLAGS"
 
 # golang
-export GOPATH=$HOME/Google/workspace
+export GOPATH=$HOME/go
 export PATH="$PATH:$GOPATH/bin"
 
 # python
