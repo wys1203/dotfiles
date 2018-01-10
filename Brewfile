@@ -6,6 +6,7 @@ tap 'homebrew/services'
 
 cask 'tunnelblick'
 cask 'java'
+cask 'virtualbox'
 cask 'font-source-code-pro'
 cask 'font-source-code-pro-for-powerline'
 cask 'docker'
