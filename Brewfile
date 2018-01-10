@@ -27,6 +27,7 @@ cask 'the-unarchiver'
 cask 'google-backup-and-sync'
 cask 'psequel'
 cask 'appcleaner'
+cask 'minikube'
 
 brew 'rbenv'
 brew 'drone'
