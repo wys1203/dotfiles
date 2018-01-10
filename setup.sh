@@ -29,3 +29,5 @@ for rcfile in $(ls "${HOME}"/.zprezto/runcoms); do
     ln -s "${HOME}/.zprezto/runcoms/$rcfile" "${HOME}/.${rcfile:t}"
   fi
 done
+
+ln -s "${HOME}/dotfiles/.gitignore_global" "${HOME}/.gitignore_global"
